@@ -1,7 +1,5 @@
-import Image from "next/image";
-import logo from "../public/Rectangle 2.png";
+
 import { HiOutlineArrowSmRight } from "react-icons/hi";
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 const artists = [
   { name: "Omone - Dreay Picasso", src: "https://github.com/shadcn.png" },
