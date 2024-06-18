@@ -1,0 +1,24 @@
+PBMusic App License
+
+Copyright (c) Tam_webdev 2024
+
+ALL RIGHTS RESERVED
+
+No permission is granted to use, copy, modify, merge copies of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+RESTRICTIONS:
+
+* Commercial Use is prohibited.
+* Modification, adaptation, or creation of derivative works is prohibited unless sent to the owner with intent of improving the product.
+* Distribution, sale, or rental of the Software or any derivative works is prohibited.
+* Use of the Software to provide paid services or support is prohibited.
+
+OWNERSHIP:
+
+The Software and all intellectual property rights, including but not limited to copyrights, trademarks, and trade secrets, remain the exclusive property of the author who's alias is Tam_webdev and is also the owner of this repository as at June 2024.
+
+TERMINATION:
+
+This License will automatically terminate if you fail to comply with any of its terms and conditions. Upon termination, you must immediately cease all use of the Software and destroy all copies.
